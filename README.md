@@ -1,1 +1,1 @@
-# -ObjectOrientedProgrammingLW2
+# ObjectOrientedProgrammingLW2
